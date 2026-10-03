@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.fahimnshahriar.twa",
-        "sha256_cert_fingerprints": ["58:4C:F9:9C:3E:51:2A:35:E2:03:11:32:C3:4F:55:9E:5B:35:BC:10:62:6E:F2:BD:90:37:FA:F8:83:69:1A:4B"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.fahimnshahriar.twa",
+    "sha256_cert_fingerprints": ["58:4C:F9:9C:3E:51:2A:35:E2:03:11:32:C3:4F:55:9E:5B:35:BC:10:62:6E:F2:BD:90:37:FA:F8:83:69:1A:4B"]
+  }
+}]
